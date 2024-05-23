@@ -1,6 +1,7 @@
 // bg-blue-950 border-blue-950
 // bg-zinc-900 border-zinc-900
 // bg-rose-950 border-rose-950
+// 
 
 import { PRODUCT_PRICES } from '@/config/products'
 
@@ -11,6 +12,7 @@ export const COLORS = [
     value: 'blue',
     tw: 'blue-950',
   },
+ 
   { label: 'Rose', value: 'rose', tw: 'rose-950' },
 ] as const
 
