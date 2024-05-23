@@ -2,6 +2,8 @@
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
+#live link:- https://casecobra-dusky.vercel.app/
+
 ## Features
 
 - 🛠️ Complete shop built from scratch in Next.js 14
